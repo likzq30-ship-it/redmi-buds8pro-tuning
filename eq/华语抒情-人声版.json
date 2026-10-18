@@ -1,0 +1,88 @@
+{
+ "schema": "flowmix-buds-peq-config-v1",
+ "exportedAt": "2026-10-18T20:00:38+08:00",
+ "name": "华语抒情-人声版",
+ "activeCount": 10,
+ "bands": [
+  {
+   "type": 1,
+   "gain": -6.6,
+   "freq": 44.5,
+   "q": 0.65
+  },
+  {
+   "type": 1,
+   "gain": 3.89,
+   "freq": 63,
+   "q": 0.65
+  },
+  {
+   "type": 1,
+   "gain": -16.67,
+   "freq": 176.8,
+   "q": 0.45
+  },
+  {
+   "type": 1,
+   "gain": -11.24,
+   "freq": 353.6,
+   "q": 0.65
+  },
+  {
+   "type": 1,
+   "gain": 5.65,
+   "freq": 707.1,
+   "q": 0.65
+  },
+  {
+   "type": 1,
+   "gain": 10.39,
+   "freq": 1327.2,
+   "q": 1.7
+  },
+  {
+   "type": 1,
+   "gain": 2.93,
+   "freq": 2828.4,
+   "q": 1.2
+  },
+  {
+   "type": 1,
+   "gain": -6.07,
+   "freq": 4992.2,
+   "q": 4.8
+  },
+  {
+   "type": 1,
+   "gain": 12.95,
+   "freq": 10312.4,
+   "q": 1.7
+  },
+  {
+   "type": 1,
+   "gain": 8.45,
+   "freq": 18777.3,
+   "q": 0.65
+  }
+ ],
+ "mxgaSource": {
+  "kind": "miclaw",
+  "candidateId": "mxga-3c82c347-9061-4081-82df-7b5d5977e255",
+  "algorithm": "mxga-replacement-fit-java-v1",
+  "target": "华语抒情-人声版",
+  "metrics": {
+   "range": "40Hz-10kHz",
+   "maeDb": 0.657,
+   "rmseDb": 0.9167,
+   "maxErrorDb": 2.9052,
+   "maxErrorHz": 7578.8,
+   "responseMinDb": -21.93,
+   "responseMinHz": 211.3,
+   "responseMaxDb": 14.726,
+   "responseMaxHz": 10310.8,
+   "safeForRoutineSlot0": true
+  }
+ },
+ "gain0": -2.0,
+ "gain1": -2.0
+}
